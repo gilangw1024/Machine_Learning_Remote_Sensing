@@ -1,0 +1,5 @@
+path: /content/drive/MyDrive/Dataset/yolo_project
+train: dataset/train/images
+val: dataset/test/images
+nc: 14
+names: ['The agricultural sector', 'Terminal', 'Beach', 'City', 'A desert', 'Forest', 'Road', 'The lake', 'Mountain', 'Car parking', 'Port', 'Train', 'Domestic', 'River']
